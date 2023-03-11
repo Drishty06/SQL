@@ -1,4 +1,3 @@
-# leetcode
 # **Leetcode SQL study plan problems💙**
 ### ~ Drishty Ganatra
 
